@@ -1,0 +1,29 @@
+{
+  "name": "rock_paper_scissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rps.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "coverageReporters": [
+      "html"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BdotWALL/Rock_Paper_Scissors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BdotWALL/Rock_Paper_Scissors/issues"
+  },
+  "homepage": "https://github.com/BdotWALL/Rock_Paper_Scissors#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
